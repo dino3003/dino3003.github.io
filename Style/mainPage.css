@@ -4,19 +4,19 @@
 }
 
 h1 {
-    margin-top: 20px;
+    margin-top: 50px;
     color: yellow;
     text-align: center;
 }
 
 h2 {
-    margin-top: 20px;
+    margin-top: 10px;
     color: yellow;
     text-align: center;
 }
 
 h3 {
-    margin-top: 20px;
+    margin-top: 10px;
     color: yellow;
     text-align: center;
 }
@@ -35,19 +35,19 @@ h3 {
 }
 
 #construction2 {
-    position: absolute;
+    position: fixed;
     bottom:0;
     left: 0;
 }
 
 #construction3 {
-    position: absolute;
+    position:absolute;
     top: 0;
     right: 0;
 }
 
 #construction4 {
-    position: absolute;
+    position:fixed;
     bottom: 0;
     right:0;
 }
